@@ -8,3 +8,5 @@ with st.spinner("Counting on going..."):
         progress_bar.progress(done + 1)
 st.success("Counting complete.")
 st.balloons()
+
+
